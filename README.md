@@ -1,1 +1,2 @@
 The project implements motion control of a robot manipulator along various predefined trajectories (linear, arc, spiral, and others). During the simulation, the position of the end-effector is continuously calculated using both forward and inverse kinematics. The project provides a visual analysis of the manipulator’s behavior for different types of motion and enables verification of the correctness of kinematic calculations.
+ROS noetic, C++
